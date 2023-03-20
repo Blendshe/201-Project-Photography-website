@@ -1,8 +1,10 @@
 #201 Project: a photography website 
 
-For the 201 project i will be creating a photography website with a number of features.  Some of these ideas for what the photography website needs to do are from the class where we learned about User Stories and we used my idea of a photography website as our example for that particular lesson.  
+For the 201 project I will be creating a photography website with a number of features.  Some of these ideas for what the photography website needs to do are from the class where we learned about User Stories and we used my idea of a photography website as our example for that particular lesson.  
 
-Unfortunately the Trello Board we used was archived so I can't refer back to exactly what we agreed were priorities, however, 
+Unfortunately the Trello Board we used was archived so I can't refer back to exactly what we agreed were priorities, however, I remember the top 2 priorities of the class and I will also add in the priorities I have as a photographer as this work is building towards a website that I will continue to work on once this project has completed, and will eventually launch as a live website.  This is something I have wanted to do for a long time.  
+
+Below is a list of the 
 
 
 Photography 3 page Website
