@@ -1,4 +1,5 @@
-`<!DOCTYPE html>
+`
+<!DOCTYPE html>
 
 <html>
 
@@ -70,5 +71,6 @@
     </div>
 
   </body>
+  
 </html>
 `
