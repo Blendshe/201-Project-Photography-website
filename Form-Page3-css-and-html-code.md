@@ -30,25 +30,18 @@
       }
       ```
    
-   ```
-   <html>
+   ```<html>
     <head>
         <link rel="stylesheet" href="201-Project-Form-Page3.css" />
-
     <title>201-Project-FormPage3</title>
 </head>
-
 <body>
   <div class="header">
     <h1>Header Page 3 Contact Form  & subscribe</h1>
   </div>
-
     <div class="footer">
     <h1>Footer</h1>
   </div>
-
 </body>
-
-</html>
-```
+</html>```
    
