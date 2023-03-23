@@ -43,11 +43,7 @@
     <h1>Header Page 3 Contact Form  & subscribe</h1>
   </div>
 
-  
-  
-  
-
-  <div class="footer">
+    <div class="footer">
     <h1>Footer</h1>
   </div>
 
